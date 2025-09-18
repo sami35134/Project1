@@ -1,7 +1,5 @@
 this is my first progrm
-my second line 
+this   my second line 
 this line i have written from feature branch
-first line
-second line
-third lin 
 
+this line is from github
